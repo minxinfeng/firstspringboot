@@ -1,0 +1,9 @@
+server:
+  port: 8081
+
+girl:
+  name: testB
+  age: 18
+  content: content:${name},age:${age}
+  
+test: tests
